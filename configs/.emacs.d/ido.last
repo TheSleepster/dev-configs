@@ -1,0 +1,296 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/justin/personal/c++stuff/" . "sleepster_base/")
+ ("/home/justin/personal/" . "c++stuff/")
+ ("/home/justin/bin/" . "Milton/")
+ ("/home/justin/src/jai_engine/" . "code/")
+ ("/home/justin/Documents/personal/zigstuff/zigtest/" . "src/")
+ ("/home/justin/Documents/personal/zigstuff/" . "zigtest/")
+ ("/home/justin/src/Clover/code/" . "shader/")
+ ("/home/justin/src/" . "Clover/")
+ ("/home/justin/src/Clover/" . "code/")
+ ("/home/justin/dev/NewC++Proj/data/" . "deps/")
+ ("/home/justin/dev/NewC++Proj/data/deps/" . "sokol/")
+ ("/home/justin/dev/NewC++Proj/code/" . "base/")
+ ("/home/justin/dev/NewC++Proj/" . "code/")
+ ("/home/justin/dev/JaiEngine/" . "build/")
+ ("/home/justin/dev/" . "JaiEngine/")
+ ("/home/justin/Documents/personal/jai/JaiEngine/" . "code/")
+ ("/home/justin/Documents/personal/jai/" . "JaiEngine/")
+ ("/home/justin/Documents/personal/" . "zigstuff/")
+ ("/home/justin/Documents/" . "personal/")
+ ("/home/justin/Documents/personal/c++stuff/" . "base/")
+ ("/home/justin/.emacs.d/" . "themes/")
+ ("/home/justin/" . "personal/")
+ ("c:/Users/ibjal/Documents/OdinStuff/Thorium/" . "code/")
+ ("c:/Users/ibjal/Documents/OdinStuff/" . "Thorium/")
+ ("w:/vneture/" . "code/")
+ ("c:/Users/ibjal/Documents/" . "OdinStuff/")
+ ("w:/Venture/code/" . "core/")
+ ("w:/Venture/" . "code/")
+ ("w:/Shiver/" . "code/")
+ ("j:/JaiEngine/" . "code/")
+ ("w:/ECSTest/code/" . "util/")
+ ("w:/ECSTest/" . "code/")
+ ("j:/FirstJai/data/" . "res/")
+ ("j:/FirstJai/data/res/" . "fonts/")
+ ("w:/Handmade/" . "code/")
+ ("w:/Handmade/data/deps/vulkan/include/" . "vulkan/")
+ ("w:/Handmade/data/deps/vulkan/" . "include/")
+ ("w:/Handmade/data/deps/" . "vulkan/")
+ ("w:/Handmade/code/" . "util/")
+ ("/" . "FirstJai/")
+ ("c:/Program Files/jai/modules/Simp/" . "backend/")
+ ("c:/Program Files/jai/modules/" . "Simp/")
+ ("c:/Program Files/jai/examples/invaders/" . "source/")
+ ("j:/FirstJai/" . "code/")
+ ("j:/" . "JaiEngine/")
+ ("c:/Program Files/jai/examples/" . "invaders/")
+ ("c:/Program Files/jai/" . "modules/")
+ ("c:/Program Files/" . "jai/")
+ ("c:/" . "Program Files/")
+ ("w:/Alkaline/code/" . "util/")
+ ("w:/Alkaline/" . "New folder/")
+ ("c:/Users/ibjal/.emacs.d/elpa/" . "gruvbox-theme-20240615.432/")
+ ("c:/Users/ibjal/.emacs.d/" . "themes/")
+ ("w:/SOKOL_SDL3/data/deps/glad/" . "include/")
+ ("w:/Clover/data/res/" . "fonts/")
+ ("w:/Clover/data/" . "res/")
+ ("w:/SOKOL_SDL3/data/deps/" . "sokol/")
+ ("w:/SDL2.30.5/" . "code/")
+ ("w:/SOKOL_SDL3/" . "code/")
+ ("w:/SDL3Vulkan/" . "code/")
+ ("w:/SOKOL_SDL3/code/" . "shader/")
+ ("w:/SocketTest/code/" . "util/")
+ ("w:/SocketTest/" . "code/")
+ ("w:/SaveThePrince/data/deps/raylib/" . "include/")
+ ("w:/SaveThePrince/data/deps/" . "raylib/")
+ ("w:/Clover/" . "code/")
+ ("o:/Sharp/" . "code/")
+ ("o:/" . "Sharp/")
+ ("w:/SaveThePrince/" . "code/")
+ ("w:/" . "Venture/")
+ ("w:/Clover/data/deps/" . "OpenGL/")
+ ("w:/Clover/code/shader/" . "new/")
+ ("w:/Clover/code/" . "shader/")
+ ("c:/Users/ibjal/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "w:/Clover/code/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Clover.cpp"
+ "Clover_Renderer.cpp"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/justin/personal/c++stuff/" (26642 26667 536324 245000) "sleepster_base/" "../" "./" "~/" "test.c" "test.out" ".vscode/")
+
+ ("/home/justin/personal/c++stuff/sleepster_base/" (26642 26667 536324 245000) "sleepster_platform_win32.c" "../" "sleepster_base_memory.h" ".git/" "./" "~/" "sleepster_base_darray.h" "sleepster_base_types.h" "sleepster_base_hash_table.h" "sleepster_base_debug.h" "sleepster_base_fileio.h" "sleepster_base.h" "sleepster_base_math.h" "sleepster_base_string.h")
+
+ ("/home/justin/" (26642 20527 449079 770000) ".zshrc.pre-oh-my-zsh" "flash/" "../" ".emacs.d/" ".mozilla/" ".zcompdump-Apollo-5.9.zwc" ".rustup/" ".cache/" ".zshrc" "./" ".oh-my-zsh/" "~/" "personal/" "Screenshots/" ".config/" ".fehbg" ".wezterm.lua" ".tmux.conf" "Downloads/" ".dmrc" ".cargo/" ".npm/" ".bashrc" ".gitconfig" ".pki/" ".bash_logout" ".shell.pre-oh-my-zsh" ".local/" "src/" ".jai/" ".xsession-errors.old" ".bash_history" ".bash_profile" ".zcompdump-Apollo-5.9" ".zsh_history" ".xsession-errors")
+
+ ("/usr/share/emacs/30.1/lisp/" (26638 51082 302286 864000) "textmodes/" "image-mode.elc" "edmacro.elc" "xwidget.elc" "ido.elc" "plstore.el.gz" "version.elc" "play/" "elide-head.el.gz" "pcmpl-git.el.gz" "pcomplete.elc" "ps-samp.el.gz" "wid-browse.elc" "foldout.el.gz" "faces.elc" "tab-line.elc" "tree-widget.el.gz" "custom.el.gz" "profiler.elc" "rot13.el.gz" "cdl.elc" "editorconfig-core.el.gz" "composite.el.gz" "obarray.elc" "svg.el.gz" "ffap.el.gz" "fileloop.el.gz" "help-macro.elc" "elec-pair.el.gz" "finder.el.gz" "dos-fns.el.gz" "strokes.elc" "pcmpl-cvs.el.gz" "sort.elc" "misearch.elc" "replace.elc" "ansi-osc.elc" "leim/" "notifications.el.gz" "face-remap.el.gz" "keymap.el.gz" "loadup.el" "calendar/" "simple.elc" "desktop.elc" "help.elc" "misc.el.gz" "emacs-lock.elc" "pcmpl-git.elc" "help-mode.el.gz" "which-key.el.gz" "touch-screen.elc" "epa-dired.elc" "talk.elc" "yank-media.el.gz" "replace.el.gz" "paren.el.gz" "facemenu.el.gz" "image.elc" "outline.elc" "startup.el.gz" "completion-preview.elc" "obarray.el.gz" "soundex.elc" "buff-menu.elc" "dired-aux.elc" "cus-edit.el.gz" "ielm.el.gz" "format-spec.el.gz" "w32-vars.el.gz" "plstore.elc" "descr-text.elc" "calc/" "delim-col.elc" "msb.elc" "find-dired.elc" "pgtk-dnd.elc" "server.el.gz" "rect.elc" "reposition.el.gz" "find-lisp.el.gz" "windmove.el.gz" "midnight.elc" "proced.el.gz" "dabbrev.el.gz" "forms.elc" "pgtk-dnd.el.gz" "display-fill-column-indicator.elc" "repeat.elc" "comint.elc" "doc-view.elc" "autoinsert.elc" "iimage.el.gz" "face-remap.elc" "x-dnd.el.gz" "macros.el.gz" "foldout.elc" "array.elc" "help-fns.el.gz" "image.el.gz" "align.elc" "allout-widgets.el.gz" "filesets.el.gz" "edmacro.el.gz" "hi-lock.el.gz" "cmuscheme.elc" "apropos.elc" "emulation/" "finder.elc" "color.el.gz" "pcmpl-gnu.el.gz" "w32-vars.elc" "kmacro.el.gz" "tabify.el.gz" "info-look.el.gz" "hfy-cmap.elc" "pcmpl-rpm.elc" "savehist.elc" "kermit.elc" "emacs-lisp/" "array.el.gz" "tool-bar.el.gz" "scroll-lock.el.gz" "dynamic-setting.el.gz" "font-lock.elc" "xdg.el.gz" "finder-inf.el" "speedbar.elc" "skeleton.elc" "editorconfig-core-handle.el.gz" "help-mode.elc" "xml.elc" "bindings.elc" "pcmpl-unix.elc" "startup.elc" "case-table.elc" "minibuf-eldef.elc" "subr.elc" "files.el.gz" "ezimage.elc" "talk.el.gz" "md4.el.gz" "tab-bar.el.gz" "bookmark.el.gz" "paren.elc" "md4.elc" "icomplete.el.gz" "expand.elc" "apropos.el.gz" "dnd.elc" "epa.elc" "man.elc" "find-file.elc" "env.elc" "window.elc" "pcmpl-linux.el.gz" "cus-face.el.gz" "ps-mule.elc" "loaddefs.elc" "mh-e/" "dirtrack.el.gz" "find-file.el.gz" "README" "misc.elc" "minibuffer.el.gz" "dired-aux.el.gz" "ps-bdf.el.gz" "editorconfig-core-handle.elc" "fileloop.elc" "xdg.elc" "bs.elc" "jsonrpc.elc" "autorevert.el.gz" "profiler.el.gz" "thingatpt.elc" "dnd.el.gz" "registry.el.gz" "ecomplete.elc" "env.el.gz" "help-at-pt.el.gz" "informat.el.gz" "tooltip.elc" "mouse-copy.elc" "reveal.el.gz" "subdirs.el" "minibuffer.elc" "tutorial.elc" "ibuf-macs.elc" "time.elc" "simple.el.gz" "scroll-bar.elc" "shell.el.gz" "wdired.el.gz" "locate.elc" "dabbrev.elc" "auth-source.elc" "completion.el.gz" "hilit-chg.elc" "so-long.elc" "bs.el.gz" "chistory.el.gz" "timezone.el.gz" "auth-source-pass.elc" "hexl.elc" "mouse-drag.elc" "elide-head.elc" "doc-view.el.gz" "hex-util.elc" "woman.elc" "epa-file.elc" "userlock.el.gz" "tree-widget.elc" "winner.el.gz" "epa-file.el.gz" "menu-bar.elc" "dired-loaddefs.el.gz" "mouse.elc" "tab-bar.elc" "recentf.el.gz" "printing.el.gz" "epa-ks.elc" "cus-dep.elc" "hilit-chg.el.gz" "jka-cmpr-hook.el.gz" "password-cache.el.gz" "filesets.elc" "font-core.elc" "dos-vars.elc" "shadowfile.elc" "hippie-exp.elc" "char-fold.el.gz" "scroll-all.elc" "htmlfontify.el.gz" "dired.elc" "pcmpl-rpm.el.gz" "proced.elc" "so-long.el.gz" "delim-col.el.gz" "ansi-color.el.gz" "follow.elc" "allout.el.gz" "mouse.el.gz" "newcomment.el.gz" "novice.el.gz" "subr.el.gz" "ibuf-ext.elc" "pcmpl-cvs.elc" "dom.el.gz" "register.el.gz" "indent.el.gz" "jka-compr.el.gz" "buff-menu.el.gz" "shadowfile.el.gz" "dired-x.elc" "scroll-all.el.gz" "tooltip.el.gz" "hl-line.elc" "help.el.gz" "epa-ks.el.gz" "image-file.el.gz" "bindings.el.gz" "printing.elc" "sqlite.el.gz" "tmm.el.gz" "dos-w32.el.gz" "files-x.el.gz" "descr-text.el.gz" "thread.elc" "auth-source-pass.el.gz" "epg-config.elc" "ls-lisp.el.gz" "locate.el.gz" "completion.elc" "allout.elc" "sqlite.elc" "fringe.elc" "button.elc" "uniquify.el.gz" "tabify.elc" "scroll-bar.el.gz" "cus-dep.el.gz" "hfy-cmap.el.gz" "epa-mail.el.gz" "generic-x.el.gz" "reposition.elc" "mb-depth.el.gz" "rtree.elc" "kmacro.elc" "informat.elc" "image-file.elc" "window.el.gz" "editorconfig-tools.elc" "echistory.el.gz" "time-stamp.el.gz" "epg.el.gz" "pcmpl-linux.elc" "dos-w32.elc" "hex-util.el.gz" "hexl.el.gz" "color.elc" "external-completion.el.gz" "ldefs-boot.el" "iimage.elc" "editorconfig-tools.el.gz" "filecache.elc" "vc/" "gnus/" "autorevert.elc" "tar-mode.el.gz" "ses.elc" "ecomplete.el.gz" "editorconfig-fnmatch.elc" "frame.el.gz" "ibuffer-loaddefs.el.gz" "forms.el.gz" "theme-loaddefs.el" "w32-fns.el.gz" "mpc.elc" "windmove.elc" "misearch.el.gz" "icomplete.elc" "json.el.gz" "ps-bdf.elc" "format.el.gz" "type-break.el.gz" "isearchb.el.gz" "COPYING" "frame.elc" "mwheel.elc" "ffap.elc" "server.elc" "time-stamp.elc" "htmlfontify.elc" "avoid.el.gz" "jka-cmpr-hook.elc" "jka-compr.elc" "cus-start.elc" "whitespace.el.gz" "completion-preview.el.gz" "menu-bar.el.gz" "master.el.gz" "composite.elc" "t-mouse.elc" "fringe.el.gz" "disp-table.elc" "midnight.el.gz" "visual-wrap.elc" "speedbar.el.gz" "hippie-exp.el.gz" "font-lock.el.gz" "dired-x.el.gz" "editorconfig-fnmatch.el.gz" "dframe.elc" "help-at-pt.elc" "editorconfig.el.gz" "ps-print.el.gz" "info-look.elc" "tempo.el.gz" "case-table.el.gz" "kermit.el.gz" "ls-lisp.elc" "mwheel.el.gz" "international/" "pcmpl-x.elc" "find-cmd.elc" "ps-print-loaddefs.el.gz" "ibuf-macs.el.gz" "epa-mail.elc" "desktop.el.gz" "ps-print.elc" "faces.el.gz" "epa-hook.elc" "sqlite-mode.elc" "frameset.el.gz" "pcomplete.el.gz" "tool-bar.elc" "language/" "bind-key.el.gz" "use-package/" "epa-hook.el.gz" "pixel-scroll.elc" "json.elc" "format.elc" "ibuffer.elc" "editorconfig.elc" "cus-theme.elc" "reveal.elc" "auth-source.el.gz" "info.elc" "emacs-lock.el.gz" "t-mouse.el.gz" "lpr.elc" "ansi-osc.el.gz" "wid-browse.el.gz" "ibuf-ext.el.gz" "hi-lock.elc" "notifications.elc" "transient.el.gz" "imenu.el.gz" "dired-loaddefs.elc" "saveplace.el.gz" "yank-media.elc" "ibuffer-loaddefs.elc" "cus-face.elc" "help-macro.el.gz" "org/" "abbrev.elc" "bind-key.elc" "url/" "treesit.elc" "isearch.elc" "indent.elc" "editorconfig-conf-mode.elc" "thread.el.gz" "facemenu.elc" "isearchb.elc" "loadhist.elc" "pcmpl-x.el.gz" "eshell/" "dos-fns.elc" "ses.el.gz" "term.elc" "flow-ctrl.el.gz" "type-break.elc" "skeleton.el.gz" "allout-widgets.elc" "xt-mouse.el.gz" "indent-aux.elc" "cus-theme.el.gz" "vcursor.el.gz" "tmm.elc" "battery.el.gz" "abbrev.el.gz" "cus-edit.elc" "timezone.elc" "info-xref.el.gz" "ehelp.elc" "ebuff-menu.elc" "font-core.el.gz" "tar-mode.elc" "epa.el.gz" "x-dnd.elc" "rot13.elc" "pcmpl-gnu.elc" "tab-line.el.gz" "soundex.el.gz" "ebuff-menu.el.gz" "epg.elc" "term.el.gz" "dynamic-setting.elc" "cus-load.el" "uniquify.elc" "widget.el.gz" "newcomment.elc" "time.el.gz" "double.el.gz" "pcmpl-unix.el.gz" "erc/" "loaddefs.el.gz" "w32-fns.elc" "electric.elc" "frameset.elc" "hl-line.el.gz" "recentf.elc" "dired.el.gz" "find-dired.el.gz" "thingatpt.el.gz" "rect.el.gz" "display-line-numbers.elc" "autoinsert.el.gz" "dirtrack.elc" "tutorial.el.gz" "net/" "touch-screen.el.gz" "register.elc" "progmodes/" "minibuf-eldef.el.gz" "battery.elc" "ibuffer.el.gz" "widget.elc" "image-mode.el.gz" "outline.el.gz" "display-fill-column-indicator.el.gz" "indent-aux.el.gz" "jit-lock.elc" "find-lisp.elc" "custom.elc" "jit-lock.el.gz" "isearch.el.gz" "info.el.gz" "wdired.elc" "comint.el.gz" "rfn-eshadow.el.gz" "mouse-copy.el.gz" "winner.elc" "loadhist.el.gz" "master.elc" "editorconfig-core.elc" "external-completion.elc" "svg.elc" "ruler-mode.elc" "calculator.elc" "echistory.elc" "treesit.el.gz" "scroll-lock.elc" "window-tool-bar.el.gz" "repeat.el.gz" "mouse-drag.el.gz" "char-fold.elc" "ps-samp.elc" "disp-table.el.gz" "select.el.gz" "mb-depth.elc" "filenotify.elc" "password-cache.elc" "avoid.elc" "cdl.el.gz" "ido.el.gz" "which-key.elc" "whitespace.elc" "ielm.elc" "display-line-numbers.el.gz" "novice.elc" "ansi-color.elc" "epa-dired.el.gz" "button.el.gz" "calculator.el.gz" "bookmark.elc" "delsel.elc" "visual-wrap.el.gz" "registry.elc" "wid-edit.el.gz" "elec-pair.elc" "term/" "tempo.elc" "userlock.elc" "pixel-scroll.el.gz" "imenu.elc" "filenotify.el.gz" "align.el.gz" "sqlite-mode.el.gz" "view.elc" "select.elc" "macros.elc" "editorconfig-conf-mode.el.gz" "filecache.el.gz" "view.el.gz" "jsonrpc.el.gz" "generic-x.elc" "delsel.el.gz" "transient.elc" "dom.elc" "sort.el.gz" "savehist.el.gz" "flow-ctrl.elc" "info-xref.elc" "find-cmd.el.gz" "files-x.elc" "wid-edit.elc" "rfn-eshadow.elc" "version.el.gz" "saveplace.elc" "strokes.el.gz" "image/" "epg-config.el.gz" "ehelp.el.gz" "xt-mouse.elc" "vcursor.elc" "man.el.gz" "dframe.el.gz" "follow.el.gz" "electric.el.gz" "woman.el.gz" "xml.el.gz" "chistory.elc" "mail/" "ezimage.el.gz" "msb.el.gz" "arc-mode.elc" "window-tool-bar.elc" "double.elc" "shell.elc" "files.elc" "cedet/" "arc-mode.el.gz" "obsolete/" "nxml/" "xwidget.el.gz" "format-spec.elc" "ps-print-loaddefs.elc" "dos-vars.el.gz" "cus-start.el.gz" "ps-mule.el.gz" "rtree.el.gz" "expand.el.gz" "mpc.el.gz" "help-fns.elc" "lpr.el.gz" "cmuscheme.el.gz" "ruler-mode.el.gz" "keymap.elc" "../" "./")
+
+ ("/home/justin/.emacs.d/" (26641 61485 568885 478000) "../" "ido.last" "init.el" "./" "~/" "themes/" "transient/" "config.el" "lisp/" "eln-cache/" "elpa/")
+
+ ("/../" (26638 5561 805344 140000) "proc/" "usr/" "../" "home/" "lost+found/" "lib/" "root/" "var/" "sys/" "srv/" "run/" "opt/" "Central" "boot/" "tmp/" "dev/" "lib64/" "bin/" "sbin/" "./" "etc/" "mnt/" "src/")
+
+ ("/home/justin/personal/" (26638 56961 927930 451000) "c++stuff/" "../" "./" "pictures/")
+
+ ("/home/justin/dev/JaiEngine/code/" (26622 48833 777570 635000) "opengl_renderer.jai" "build.bat" "input.jai" "main.rdi" "shaders.jai" "main.jai" "asset.jai" "game_data.jai" "game_world_gen.jai" "game_entity.jai" "main" "variables.jai" "audio.jai" "game_camera.jai" "util.jai" "game_entry.jai" "drawing.jai" "run.bat" ".build/" ".vscode/" "game_aabb.jai" "profiler.jai" "package-lock.json" "../" "todo.org" "game_ecs.jai" "~/" "./" "sprite_hash.jai" "libSDL2.so" "build.sh" "memory.jai" "arena.jai" "hotloading.jai")
+
+ ("/home/justin/Documents/personal/odinstuff/" (26622 48145 143836 426000) "odinstuff" "test.odin" "../" "~/" "./")
+
+ ("/home/justin/Documents/personal/jai/" (26620 17263 409451 75000) "../" "./" "JaiEngine/")
+
+ ("/home/justin/Documents/personal/c++stuff/" (26622 48133 630119 942000) "base/" "../" "~/" "odin_test.odin" "test.c" "test.jai" "./" "test.cpp")
+
+ ("/home/justin/Documents/aseprite_stuff/" (26621 42548 722305 599000) "../" "./" "palettes/")
+
+ ("/home/justin/src/Clover/build/" (26622 3322 159685 815000) "CloverGame.ilk" "CloverGame.exe" "CloverGame.sln" "CloverGame.dll" "Win32_Clover.obj" "vc140.pdb" "Clover.obj" "CloverGame_20612.rdi" "imgui.ini" "CloverGame.rdi" "Win32_Clover.map" "CloverGame_19486.pdb" "a-Win32_Clover.json" "a-Clover.json" "CloverGame.pdb" "../" "Clover.exp" "CloverGame_20828.rdi" "./" "steam_api64.dll" "Clover.lib" "Clover.map" "GameTemp.dll" ".vs/")
+
+ ("/home/justin/bin/Milton/" (26617 35374 135315 718000) "milton_icon.ico" "LICENSE.txt" "Milton.exe" "../" "./" "Carlito.ttf" "Carlito.LICENSE")
+
+ ("/home/justin/src/jai_engine/code/" (26621 30636 455217 653000) "opengl_renderer.jai" "build.bat" "input.jai" "main.rdi" "shaders.jai" "main.jai" "asset.jai" "game_data.jai" "game_world_gen.jai" "game_entity.jai" "main" "variables.jai" "audio.jai" "game_camera.jai" "util.jai" "game_entry.jai" "drawing.jai" "run.bat" ".build/" ".vscode/" "game_aabb.jai" "profiler.jai" "package-lock.json" "../" "todo.org" "game_ecs.jai" "~/" "test.jai" "./" "sprite_hash.jai" "libSDL2.so" "build.sh" "memory.jai" "arena.jai" "hotloading.jai")
+
+ ("/home/justin/src/jai_engine/" (26621 30191 983569 22000) "code/" "data/" "build/" ".git/" "ObsidianNotes/" "scratch.jai" "../" "misc/" "~/" "./")
+
+ ("/home/justin/dev/NewC++Proj/code/" (26622 11092 311312 448000) "base/" ".vscode/" "gearbox_main.cpp" "../" "~/" "./" "build.sh" "SDL_Entry.cpp")
+
+ ("/home/justin/Documents/personal/zigstuff/zigtest/" (26622 11117 631948 10000) "build.zig" ".zig-cache/" "src/" "zig-out/" "../" "build.zig.zon" "./")
+
+ ("/home/justin/Downloads/" (26621 42634 861500 512000) "apollo-8x.png" "sysmaintenance.sh" "sokol_gfx.h" "sokol-shdc" "../" "./" "apollo.ase" "raddbg.zip")
+
+ ("/home/justin/dev/JaiEngine/build/" (26620 12784 491421 699000) "main.rdi" ".build/" "../" "./" "main.pdb" "libSDL2.so")
+
+ ("/home/justin/.emacs.d/themes/" (26622 7806 409602 714000) "handmade-theme.el" "nvim_dark-theme.el" "../" "~/" "./" "naysayer-theme.el")
+
+ ("/home/justin/.emacs.d/lisp/" (26622 7035 801609 794000) "odin-mode.el" "../" "nvim-dark-faces.el" "./" "jai-mode.el" "org-config.el")
+
+ ("/home/justin/Documents/personal/zigstuff/zigtest/src/" (26622 7633 572082 686000) "main.zig" "root.zig" "../" "~/" "./")
+
+ ("/home/justin/Documents/personal/zigstuff/" (26617 34330 596434 916000) "../" "~/" "./" "zigtest/")
+
+ ("/home/justin/src/Clover/code/shader/" (26622 3322 173019 477000) "CommonShader.glh" "Test.comp" "gBuffer_lighting.frag" "Clover.cpp" "new/" "../" "Test.glsl" "gBuffer_Geo.vert" "./" "Basic.vert" "gBuffer_Geo.frag" "Quad.glsl" "gBuffer_lighting.vert" "Basic.frag")
+
+ ("/home/justin/Documents/" (26621 42410 444786 870000) "personal/" "../" "./" "aseprite_stuff/")
+
+ ("/home/justin/bin/" (26619 6690 867656 172000) "../" "./" "Milton/")
+
+ ("/home/justin/src/Clover/code/" (26622 5602 503040 557000) "build.bat" "Clover_Asset.h" "util/" "Clover_UI.cpp" "Win32_Clover.h" "Clover_OpenGL.cpp" "Clover_UI.h" "Clover.cpp" "Clover_Audio.h" "Clover_DrawingInterface.cpp" "Clover_Shader.h" "project.4coder" "Clover_Globals.h" "Clover_Platform.h" "Clover_Asset.cpp" "Clover_Shader.cpp" "Clover_Input.h" "build_clang.bat" "Test.cpp" "todo.md" "Win32_Clover.cpp" "Clover.h" "../" "shader/" "Clover_GameUI.cpp" "Clover_Entity.cpp" "Clover_Renderer.cpp" "Clover_Renderer.h" "Clover_Platform.cpp" "Clover_Rendering.h" "./" "Clover_Input.cpp" "Clover_Mixer.cpp" "Intrinsics.h" "Clover_Audio.cpp" "Clover_GameData.cpp" "Linux_Clover.cpp" "Clover_Draw.cpp")
+
+ ("/home/justin/src/Clover/" (26622 3335 26669 45000) "code/" "README.md" "data/" "build/" "TestCompilegladlib.json" ".git/" ".vscode/" "scratch.cpp" "../" "misc/" "~/" "Math.h" "TestCompile.json" "./")
+
+ ("/home/justin/src/" (26622 3260 731508 147000) "zls/" "jai_engine/" "package-lock.json" "../" "the-language/" "./" "raddebugger/" "Clover/")
+
+ ("/home/justin/dev/NewC++Proj/build/" (26622 627 386629 9000) "sokol-shdc" "../" "gearbox_debug.out" "./")
+
+ ("/home/justin/dev/NewC++Proj/code/base/" (26621 38210 601937 899000) "sleepster_base.h" "sleepster_base_memory.cpp" "sleepster_base_debug.h" "sleepster_base_darray.h" "sleepster_base_hash_table.h" ".git/" "sleepster_base_types.h" "sleepster_base_memory.h" "../" "./" "sleepster_base_string.h" "sleepster_base_math.h")
+
+ ("/home/justin/dev/NewC++Proj/data/deps/sokol/" (26621 36579 766777 953000) "sokol_gfx.h" "../" "./")
+
+ ("/home/justin/dev/NewC++Proj/data/deps/" (26621 36583 566873 835000) "sokol/" "../" "./")
+
+ ("/home/justin/dev/NewC++Proj/data/" (26621 36569 876528 105000) "deps/" "../" "./")
+
+ ("/home/justin/dev/NewC++Proj/" (26621 34974 965845 98000) "code/" "data/" "build/" "../" "./")
+
+ ("/home/justin/dev/" (26621 34643 501930 607000) "NewC++Proj/" "../" "./" "JaiEngine/")
+
+ ("/home/justin/Documents/personal/" (26620 17263 409451 75000) "c++stuff/" "odinstuff/" "zigstuff/" "jai/" "../" "~/" "./")
+
+ ("/home/justin/.jai/" (26620 12886 517413 562000) "how_to/" "modules/" "CHANGELOG.txt" "redist/" "examples/" "../" "editor_support/" "./" "bin/" "macos_de-quarantine.sh" "README.txt")
+
+ ("/home/justin/dev/JaiEngine/" (26620 12787 891510 341000) "code/" "data/" "build/" ".git/" "ObsidianNotes/" "scratch.jai" "../" "misc/" "~/" "./")
+
+ ("/home/justin/Documents/personal/jai/JaiEngine/code/" (26619 8716 467531 401000) "opengl_renderer.jai" "build.bat" "input.jai" "main.rdi" "shaders.jai" "main.jai" "asset.jai" "game_data.jai" "game_world_gen.jai" "game_entity.jai" "main" "variables.jai" "audio.jai" "game_camera.jai" "util.jai" "game_entry.jai" ".#game_world_gen.jai" "drawing.jai" "run.bat" ".build/" ".vscode/" "game_aabb.jai" "profiler.jai" "package-lock.json" "../" "todo.org" "game_ecs.jai" "~/" "test.jai" "./" "sprite_hash.jai" "libSDL2.so" "build.sh" "memory.jai" "arena.jai" "hotloading.jai")
+
+ ("/home/justin/Documents/personal/jai/JaiEngine/" (26616 33956 564860 738000) "code/" "data/" "build/" ".git/" "ObsidianNotes/" "scratch.jai" "../" "misc/" "~/" "./")
+
+ ("/home/justin/Documents/personal/c++stuff/base/" (26616 2347 418343 731000) "sleepster_base.h" "sleepster_base_memory.cpp" "sleepster_base_debug.h" "sleepster_base_darray.h" "sleepster_base_hash_table.h" "sleepster_base_types.h" "sleepster_base_memory.h" "../" "./" "sleepster_base_string.h" "sleepster_base_math.h")
+
+ ("/home/justin/.config/i3/" (26615 17498 265382 264000) "keybindings" "config" "scripts/" "i3blocks.conf" "../" "./")
+
+ ("/home/justin/.config/" (26615 17189 19326 544000) "rofi/" "xarchiver/" "Vencord/" "example.picom.conf" "user-dirs.locale" "EOS-greeter.conf" "gtk-3.0/" "Thunar/" "nano/" "vesktop/" "yay/" "gtk-4.0/" "nvim/" ".wezterm.lua" "i3/" "mimeapps.list" "../" "xsettingsd/" "Dotfiles/" "~/" "pulse/" "./" "autostart/" "user-dirs.dirs" "dconf/" "dunst/" "xfce4/" "nwg-look/")
+
+ ("j:/JaiEngine/code/" (26615 3724 0 0) "variables.jai" "util.jai" "todo.org" "sprite_hash.jai" "shaders.jai" "run.bat" "profiler.jai" "opengl_renderer.jai" "memory.jai" "main.rdi" "main.jai" "input.jai" "hotloading.jai" "game_world_gen.jai" "game_entry.jai" "game_entity.jai" "game_ecs.jai" "game_data.jai" "game_camera.jai" "game_aabb.jai" "drawing.jai" "build.bat" "audio.jai" "asset.jai" "arena.jai" ".build/" ".#game_world_gen.jai" "../" "./")
+
+ ("w:/Clover/code/" (26613 30593 0 0) "~/" "Win32_Clover.h" "Win32_Clover.cpp" "util/" "todo.md" "Test.cpp" "shader/" "project.4coder" "Linux_Clover.cpp" "Intrinsics.h" "game_camera.jai" "Clover_UI.h" "Clover_UI.cpp" "Clover_Shader.h" "Clover_Shader.cpp" "Clover_Rendering.h" "Clover_Renderer.h" "Clover_Renderer.cpp" "Clover_Platform.h" "Clover_Platform.cpp" "Clover_OpenGL.cpp" "Clover_Mixer.cpp" "Clover_Input.h" "Clover_Input.cpp" "Clover_Globals.h" "Clover_GameUI.cpp" "Clover_GameData.cpp" "Clover_Entity.cpp" "Clover_DrawingInterface.cpp" "Clover_Draw.cpp" "Clover_Audio.h" "Clover_Audio.cpp" "Clover_Asset.h" "Clover_Asset.cpp" "Clover.h" "Clover.cpp" "build_clang.bat" "build.bat" "../" "./")
+
+ ("c:/Users/ibjal/.emacs.d/" (26608 12085 0 0) "tree-sitter/" "transient/" "themes/" "lisp/" "init.el" "ido.last~" "ido.last" "elpa/" "config.el" "auto-save-list/" "#init.el#" "../" "./")
+
+ ("w:/Venture/code/" (26603 33258 0 0) "venture_win32_entry.cpp" "venture_win32.h" "venture_unicode.cpp" "venture_render_group.h" "venture_render_group.cpp" "venture_platform.h" "venture_opengl.h" "venture_opengl.cpp" "venture_main.cpp" "venture_input.cpp" "venture_dynamic_font.h" "venture_dynamic_font.cpp" "venture_buffer.h" "venture_buffer.cpp" "venture_base_types.h" "venture_base_string.h" "venture_base_memory.h" "venture_base_memory.cpp" "venture_base_math.h" "venture_base_hash_table.h" "venture_base_debug.h" "venture_base_darray.h" "project.4coder" "build.bat" ".git/" "../" "./")
+
+ ("w:/Venture/" (26601 60672 0 0) "~/" "test.c" "fonts/" "deps/" "code/" "build/" "../" "./")
+
+ ("c:/Users/ibjal/Documents/OdinStuff/Thorium/code/" (26429 21298 0 0) "Thorium_Util.odin" "ols.json" "Entry_Thorium.odin" "build.bat" "../" "./")
+
+ ("c:/Users/ibjal/Documents/OdinStuff/Thorium/" (26426 37300 0 0) "~/" "ols.json" "data/" "code/" "build/" ".vscode/" "../" "./")
+
+ ("c:/Users/ibjal/Documents/OdinStuff/" (26575 13709 0 0) "~/" "Thorium/" "test/" "Sharp/" "Oak/" "Clone/" "../" "./")
+
+ ("c:/Users/ibjal/Documents/RustStuff/" (26602 46089 0 0) "test.rs" "../" "./")
+
+ ("c:/Users/ibjal/Documents/" (26602 46000 0 0) "~/" "windows-go/" "Visual Studio 2022/" "Tiled/" "The Witcher 3/" "svnstuff/" "StarCraft II/" "RustStuff/" "PowerToys/" "PowerShell/" "personal/" "Peace backup/" "Overwatch/" "OdinStuff/" "ObsidianNotes/" "NVIDIA Nsight Graphics/" "My Videos/" "My Pictures/" "My Music/" "My Games/" "LDTK/" "jaiStuff/" "go-stuff/" "GIMP/" "From The Depths/" "FMOD Studio/" "empty.ase" "C++Stuff/" "c#stuff/" "Blackmagic Design/" "before I fuck shit up fam.reg" "Audacity/" "Aesprite/" "../" "./")
+
+ ("c:/Users/" (26602 30766 0 0) "~/" "Public/" "ibjal/" "desktop.ini" "Default User/" "Default/" "All Users/" "../" "./")
+
+ ("c:/Users/ibjal/" (26603 14932 0 0) "~/" "VulkanSDK/" "Videos/" "Templates/" "Start Menu/" "source/" "SendTo/" "Searches/" "Saved Games/" "Recent/" "PrintHood/" "Pictures/" "oh_my_posh_config.json" "ntuser.ini" "NTUSER.DAT{a8c3d2cf-f92b-11ee-89d1-f8e4e32794d4}.TMContainer00000000000000000002.regtrans-ms" "NTUSER.DAT{a8c3d2cf-f92b-11ee-89d1-f8e4e32794d4}.TMContainer00000000000000000001.regtrans-ms" "NTUSER.DAT{a8c3d2cf-f92b-11ee-89d1-f8e4e32794d4}.TM.blf" "NTUSER.DAT{a8c3d2ce-f92b-11ee-89d1-f8e4e32794d4}.TxR.blf" "NTUSER.DAT{a8c3d2ce-f92b-11ee-89d1-f8e4e32794d4}.TxR.2.regtrans-ms" "NTUSER.DAT{a8c3d2ce-f92b-11ee-89d1-f8e4e32794d4}.TxR.1.regtrans-ms" "NTUSER.DAT{a8c3d2ce-f92b-11ee-89d1-f8e4e32794d4}.TxR.0.regtrans-ms" "ntuser.dat.LOG2" "ntuser.dat.LOG1" "NTUSER.DAT" "NetHood/" "My Documents/" "Music/" "Local Settings/" "Links/" "go/" "Favorites/" "emacs-backup/" "Downloads/" "DotFiles/" "DoomEmacs Config/" "Documents/" "desktop.ini" "Desktop/" "Cookies/" "Contacts/" "Application Data/" "AppData/" ".zsh_history" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zcompdump-Gamerbox-5.9.zwc" ".zcompdump-Gamerbox-5.9" ".wezterm.lua" ".vscode/" ".VirtualBox/" ".thumbnails/" ".templateengine/" ".ssh/" ".rustup/" ".oh-my-zsh/" ".minttyrc" ".logseq/" ".local/" ".glzr/" ".gitconfig" ".emacs.d/" ".dotnet/" ".chocolatey/" ".cargo/" ".cache/" ".bash_history" ".android/" ".849C9593-D756-4E56-8D6E-42412F2A707B" "../" "./")
+
+ ("c:/Users/ibjal/.emacs.d/themes/" (26601 56222 0 0) "naysayer-theme.el" "handmade-theme.el" "../" "./")
+
+ ("j:/FirstJai/code/" (26575 12573 0 0) "variables.jai" "util.jai" "todo.org" "sprite_hash.jai" "shaders.jai" "run.bat" "profiler.jai" "opengl_renderer.jai" "main.rdi" "main.jai" "input.jai" "hotloading.jai" "gmae_entity.jai" "game_entry.jai" "game_ecs.jai" "drawing.jai" "build.bat" "audio.jai" "asset.jai" "arena.jai" ".build/" "../" "./")
+
+ ("w:/Clover/code/util/" (26593 18055 0 0) "String.h" "Sorting.h" "Pairs.h" "Math.h" "FileIO.h" "Array.h" "Arena.h" "../" "./")
+
+ ("c:/Program Files/4coderFluery/custom/4coder_fleury/" (26587 20440 0 0) "vc140.pdb" "theme-fleury.4coder" "README.md" "generated/" "custom_4coder.pdb" "config.4coder" "build_mac.sh" "build_linux.sh" "build_lexers.bat" "build.bat" "bindings.4coder" "4coder_fleury_ubiquitous.h" "4coder_fleury_ubiquitous.cpp" "4coder_fleury_table_comments.cpp" "4coder_fleury_render_helpers.h" "4coder_fleury_render_helpers.cpp" "4coder_fleury_recent_files.h" "4coder_fleury_recent_files.cpp" "4coder_fleury_power_mode.h" "4coder_fleury_power_mode.cpp" "4coder_fleury_pos_context_tooltips.h" "4coder_fleury_pos_context_tooltips.cpp" "4coder_fleury_plots_demo.cpp" "4coder_fleury_plot.h" "4coder_fleury_plot.cpp" "4coder_fleury_lego.h" "4coder_fleury_lego.cpp" "4coder_fleury_lang_metadesk.cpp" "4coder_fleury_lang_list.h" "4coder_fleury_lang_jai.cpp" "4coder_fleury_lang_cpp.cpp" "4coder_fleury_lang.h" "4coder_fleury_lang.cpp" "4coder_fleury_jai_lexer_gen.cpp" "4coder_fleury_index.h" "4coder_fleury_index.cpp" "4coder_fleury_hooks.h" "4coder_fleury_hooks.cpp" "4coder_fleury_error_annotations.h" "4coder_fleury_error_annotations.cpp" "4coder_fleury_divider_comments.h" "4coder_fleury_divider_comments.cpp" "4coder_fleury_cursor.h" "4coder_fleury_cursor.cpp" "4coder_fleury_command_server.h" "4coder_fleury_command_server.cpp" "4coder_fleury_colors.h" "4coder_fleury_colors.cpp" "4coder_fleury_code_peek.h" "4coder_fleury_code_peek.cpp" "4coder_fleury_casey.cpp" "4coder_fleury_calc.h" "4coder_fleury_calc.cpp" "4coder_fleury_brace.h" "4coder_fleury_brace.cpp" "4coder_fleury_bindings.h" "4coder_fleury_bindings.cpp" "4coder_fleury_base_commands.h" "4coder_fleury_base_commands.cpp" "4coder_fleury_audio.h" "4coder_fleury_audio.cpp" "4coder_fleury.cpp" ".github/" ".git/" "../" "./")
+
+ ("j:/JaiEngine/data/res/" (26587 6755 0 0) "textures/" "sounds/" "idea.aseprite" "grasslands_map.mdata" "fonts/" "engine.variables" "../" "./")
+
+ ("j:/JaiEngine/data/" (26581 46442 0 0) "~/" "workbench.png" "tree_00.png" "textureless_sprite.png" "stone_node.png" "Sprite-0001.aseprite" "res/" "player.png" "furnace.png" "fire.png" "coal_node.png" "block.png" "base.png" "background.png" "../" "./")
+
+ ("j:/JaiEngine/" (26585 35841 0 0) "~/" "scratch.jai" "misc/" "data/" "code/" "build/" ".git/" "../" "./")
+
+ ("j:/FirstJaiBACKUP/" (26535 8989 0 0) "~/" "scratch.jai" "data/" "code/" "build/" "../" "./")
+
+ ("c:/Users/ibjal/Documents/personal/" (26583 52219 0 0) "ffff.txt" "../" "./")
+
+ ("w:/Venture/code/base/" (26578 42467 0 0) "venture_platform.h" "venture_base_types.h" "venture_base_memory.h" "venture_base_memory.cpp" "venture_base_math.h" "venture_base_debug.h" "../" "./")
+
+ ("w:/Venture/code/core/" (26578 42054 0 0) "venture_opengl.cpp" "venture_main.cpp" "../" "./")
+
+ ("w:/Venture/code/os/" (26578 42281 0 0) "venture_win32_entry.cpp" "venture_win32.h" "../" "./")
+
+ ("w:/Venture/deps/" (26577 56503 0 0) "OpenGL/" "Freetype/" "../" "./")
+
+ ("w:/Venture/deps/OpenGL/" (26577 56503 0 0) "wglext.h" "KHR/" "GLL.h" "glext.h" "glcorearb.h" "glad/" "../" "./")
+
+ ("w:/Venture/code/platform_base/" (26577 25648 0 0) "win32_base_venture.cpp" "../" "./")
+
+ ("w:/Handmade/code/util/" (26548 27208 0 0) "types.h" "sorting.h" "pairs.h" "list.h" "fileio.h" "defines.h" "debug.h" "custom_string.h" "custom_math.h" "array.h" "arena.h" ".git/" "../" "./")
+
+ ("w:/SDL3Vulkan/" (26397 41103 0 0) "~/" "misc/" "desktop.ini" "data/" "code/" "build/" ".vscode/" "../" "./")
+
+ ("w:/Handmade/code/" (26547 59618 0 0) "win32_handmade.cpp" "Vulkan.org" "util/" "run.bat" "handmade_vulkan.cpp" "build.bat" "../" "./")
+
+ ("w:/Clover./" (26536 2037 0 0) "~/" "TestCompilegladlib.json" "TestCompile.json" "test/" "scratch.cpp" "README.md" "misc/" "Math.h" "help.jai" "data/" "code/" "build/" ".vscode/" ".git/" "../" "./")
+
+ ("~/.emacs.d/" (26571 4524 0 0) "transient/" "themes/" "lisp/" "init.el" "ido.last" "elpa/" "config.el" "auto-save-list/" "#init.el#" "../" "./")
+
+ ("w:/Clover/code/shader/" (26569 65483 0 0) "Test.glsl" "Test.comp" "Quad.glsl" "new/" "gBuffer_lighting.vert" "gBuffer_lighting.frag" "gBuffer_Geo.vert" "gBuffer_Geo.frag" "CommonShader.glh" "Clover.cpp" "Basic.vert" "Basic.frag" ".#gBuffer_lighting.frag" "../" "./")
+
+ ("w:/Shiver/code/shader/" (26306 12590 0 0) "Shiver_SharedShaderHeader.h" "Basic_vert.glsl" "Basic_frag.glsl" "../" "./")
+
+ ("w:/Shiver/code/" (26382 42663 0 0) "Win32_Shiver.h" "Win32_Shiver.cpp" "util/" "Shiver_Renderer.h" "Shiver_Renderer.cpp" "Shiver_Input.h" "Shiver_Input.cpp" "Shiver_Globals.h" "Shiver_AudioEngine.h" "Shiver_AudioEngine.cpp" "Shiver.h" "Shiver.cpp" "shader/" "Intrinsics.h" "build.bat" "../" "./")
+
+ ("w:/Shiver/" (26273 8157 0 0) "~/" "testfile.json" "outputfile3.json" "outputfile2.json" "misc/" "Freetype.json" "data/" "code/" "build/" ".git/" "../" "./")
+
+ ("w:/ECSTest/code/" (26555 54650 0 0) "util/" "run.bat" "main.cpp" "build_clang.bat" "build.bat" "../" "./")
+
+ ("w:/ECSTest/code/util/" (26555 53929 0 0) "types.h" "sorting.h" "pairs.h" "list.h" "fileio.h" "defines.h" "debug.h" "custom_string.h" "custom_math.h" "array.h" "arena.h" ".git/" "../" "./")
+
+ ("w:/ECSTest/data/" (26555 52688 0 0) "shader/" "res/" "deps/" "../" "./")
+
+ ("w:/ECSTest/data/deps/" (26555 52687 0 0) "yyjson/" "raylib/" "../" "./")
+
+ ("w:/ECSTest/data/deps/raylib/" (26555 52687 0 0) "README.md" "LICENSE" "lib/" "include/" "CHANGELOG" "../" "./")
+
+ ("w:/ECSTest/data/deps/raylib/include/" (26555 52687 0 0) "rlgl.h" "raymath.h" "raylib.h" "raygui.h" "../" "./")
+
+ ("j:/FirstJai/" (26555 52917 0 0) "~/" "scratch.jai" "data/" "code/" "build/" ".svn/" "../" "./")
+
+ ("w:/ECSTest/" (26555 52687 0 0) "data/" "code/" "build/" "../" "./")
+
+ ("w:/SocketTest/code/" (26478 42828 0 0) "win32_SocketTestServer.cpp" "win32_SocketTestClient.cpp" "util/" "Intrinsics.h" "build.bat" "../" "./")
+
+ ("c:/Program Files/jai/modules/" (26543 28119 0 0) "~/" "Zip_File_Directory.jai" "xxHash/" "X11/" "Window_Type.jai" "Window_Creation/" "Windows_Utf8.jai" "Windows_Resources.jai" "Windows_Registry.jai" "Windows.jai" "Wav_File.jai" "Vulkan/" "Unmapping_Allocator/" "Unicode.jai" "Treemap.jai" "Toolchains/" "Thread/" "Thekla_Baker/" "Thekla_Atlas/" "Text_File_Handler/" "telemetry3/" "Tagged_Union.jai" "System.jai" "String/" "stb_vorbis/" "stb_image_write/" "stb_image_resize/" "stb_image/" "Srgb.jai" "Sound_Player/" "Sort.jai" "Socket/" "Soa.jai" "Sloppy_Math.jai" "Simple_Package/" "Simp/" "Shared_Memory_Channel/" "SDL/" "Runtime_Support_Crash_Handler.jai" "Runtime_Support.jai" "rpmalloc/" "Remap_Context.jai" "Relative_Pointers.jai" "Reflection.jai" "Random.jai" "RadixSort.jai" "Protocol_For_Memory_Visualization.jai" "Project_Generator.jai" "Program_Print/" "Process/" "Print_Vars.jai" "Print_Color.jai" "Preload.jai" "POSIX_old/" "POSIX/" "Pool.jai" "pl_mpeg/" "Performance_Report.jai" "PCG.jai" "Overwriting_Allocator/" "Objective_C/" "nvtt/" "nvidia_aftermath/" "MojoShader/" "Minimal_Metaprogram.jai" "Metaprogram_Plugins.jai" "Metal/" "meshoptimizer/" "meow_hash/" "Memory/" "md5.jai" "Math/" "Mail.jai" "MacOS_Bundler.jai" "macos/" "Machine_X64.jai" "lz4/" "linux_build.jai" "Linux/" "Keymap/" "Jai_Lexer/" "Iprof/" "IntroSort.jai" "Input/" "ImGui/" "Ico_File.jai" "Icon.jai" "Hash_Table.jai" "Hash.jai" "GL/" "GetRect_LeftHanded/" "GetRect/" "generate_c_header.jai" "Gamepad/" "freetype255/" "freetype-2.12.1/" "Float16.jai" "Flat_Pool.jai" "File_Watcher/" "File_Utilities/" "File_Async/" "File/" "executable_formats/" "Example_Plugin.jai" "dxgi/" "dxc_compiler/" "Default_Metaprogram.jai" "Default_Allocator/" "Deep_Copy.jai" "debug_info/" "Debug.jai" "d3d_compiler/" "d3d12/" "d3d11/" "Curl/" "Crc.jai" "Compiler/" "Command_Line.jai" "Code_Visit/" "Codex/" "Clipboard/" "Check/" "BuildCpp.jai" "Bucket_Array.jai" "Bit_Operations.jai" "Bit_Array.jai" "Bindings_Generator/" "Basic/" "Base64.jai" "Autorun.jai" "Atomics.jai" "Android/" "Adpcm.jai" "../" "./")
+
+ ("j:/FirstJai/data/res/" (26551 34205 0 0) "textures/" "sounds/" "fonts/" "engine.variables" "../" "./")
+
+ ("j:/FirstJai/data/" (26551 27814 0 0) "~/" "Sprite-0001.aseprite" "res/" "../" "./")
+
+ ("j:/FirstJai/data/res/fonts/" (26548 28886 0 0) "UbuntuMono-B.ttf" "ttf/" "OpenSans-BoldItalic.ttf" "LiberationMono-Regular.ttf" "AtariClassic-gry3.ttf" "arial.ttf" "../" "./")
+
+ ("c:/Users/ibjal/.emacs.d/lisp/" (26547 49924 0 0) "org-config.el" "jai-mode.el" "../" "./")
+
+ ("w:/SDL3Vulkan/code/" (26481 22346 0 0) "util/" "entry_VulkanTest.cpp" "build.sh" "build.bat" "../" "./")
+
+ ("w:/Handmade/data/deps/vulkan/include/vulkan/" (26543 37759 0 0) "vulkan_xlib_xrandr.h" "vulkan_xlib.h" "vulkan_xcb.h" "vulkan_win32.h" "vulkan_wayland.h" "vulkan_video.hpp" "vulkan_vi.h" "vulkan_to_string.hpp" "vulkan_structs.hpp" "vulkan_static_assertions.hpp" "vulkan_shared.hpp" "vulkan_screen.h" "vulkan_raii.hpp" "vulkan_metal.h" "vulkan_macos.h" "vulkan_ios.h" "vulkan_hpp_macros.hpp" "vulkan_hash.hpp" "vulkan_handles.hpp" "vulkan_ggp.h" "vulkan_funcs.hpp" "vulkan_fuchsia.h" "vulkan_format_traits.hpp" "vulkan_extension_inspection.hpp" "vulkan_enums.hpp" "vulkan_directfb.h" "vulkan_core.h" "vulkan_beta.h" "vulkan_android.h" "vulkan.hpp" "vulkan.h" "vulkan.cppm" "vk_platform.h" "vk_layer.h" "vk_icd.h" "../" "./")
+
+ ("w:/Handmade/data/deps/vulkan/include/" (26543 37759 0 0) "vulkan/" "vk_video/" "../" "./")
+
+ ("w:/Handmade/data/deps/vulkan/" (26543 37759 0 0) "lib/" "include/" "../" "./")
+
+ ("w:/Handmade/data/deps/" (26543 37759 0 0) "yyjson/" "vulkan/" "stb/" "glad/" "Freetype/" "FMOD/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
