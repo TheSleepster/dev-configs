@@ -185,8 +185,8 @@ local cmp = require('cmp')
   cmp.setup({
     autocomplete = false,
     sources = {
-        {name = 'nvim_lsp', keyword_length = 1, max_item_count = 10},
-        {name = 'buffer', keyword_length = 5, max_tiem_count = 10},
+        {name = 'nvim_lsp', keyword_length = 4, max_item_count = 10},
+        {name = 'buffer', keyword_length = 2, max_tiem_count = 10},
         {name = 'path'},
     },
 

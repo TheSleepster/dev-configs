@@ -37,7 +37,7 @@ function Sleepster_Build()
         callback = function()
             local lines = vim.api.nvim_buf_get_lines(term_buf, 0, -1, false)
             -- MSVC 
-            -- vim.opt.errorformat = [[%f(%l): %t%*[^:]: %m]]
+            --vim.opt.errorformat = [[%f(%l): %t%*[^:]: %m]]
             
             -- clang
             vim.opt.errorformat = [[%f(%l): %t%*[^:]: %m,%f:%l:%c: %m]]
