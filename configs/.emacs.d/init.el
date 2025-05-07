@@ -700,8 +700,8 @@
 (define-key global-map [c-tab] 'indent-region)
 (define-key global-map "	" 'indent-region)
 
-(add-to-list 'default-frame-alist '(font . "LiterationMono Nerd Font-10"))
-(set-face-attribute 'default t :font "LiterationMono Nerd Font Propo-10")
+(add-to-list 'default-frame-alist '(font . "LiterationMono Nerd Font-8"))
+(set-face-attribute 'default t :font "LiterationMono Nerd Font Propo-8")
 
 ;;(add-to-list 'default-frame-alist '(font . "LiterationMono Nerd Font-11"))
 ;;(add-to-list 'default-frame-alist '(font . "More Perfect DOS VGA-14"))
