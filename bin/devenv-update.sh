@@ -1,6 +1,26 @@
 #!/bin/bash
 
 echo updating .config files
+PATHS=("$HOME/.config/nvim"
+       "$HOME/.config/hypr"
+       "$HOME/.config/rofi"
+       "$HOME/.config/waybar"
+       "$HOME/.config/bin"
+       "$HOME/.config/ghostty"
+       "$HOME/.config/gtk-3.0"
+       "$HOME/.config/xfce4"
+       "$HOME/.emacs.d"
+)
+
+for path in "${PATHS[@]}"; do
+	if [ ! -d "$path" ]; then
+		mkdir -p "$path"
+		echo "Created: $path"
+	else
+		echo "Path Found..."
+	fi
+done
+
 
 echo cleaning...
 

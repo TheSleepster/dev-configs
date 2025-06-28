@@ -42,19 +42,18 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 
+
 font-family = LiterationMono
 font-size = 14
 
-theme = rose-pine
-
 cursor-color = 00FF00
 cursor-style = block
-shell-integration-features = no-cursor
+shell-integration-features=no-cursor
 
 background-opacity = 0.80
 background-blur    = true
 
-confirm-close-surface = false
+confirm-close-curface      = false
 clipboard-paste-protection = false
 
 keybind = performable:ctrl+c=copy_to_clipboard
