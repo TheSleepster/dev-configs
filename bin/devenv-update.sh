@@ -1,62 +1,39 @@
 #!/bin/bash
+set -euo pipefail
 
-echo updating .config files
-PATHS=("$HOME/.config/nvim"
-       "$HOME/.config/hypr"
-       "$HOME/.config/rofi"
-       "$HOME/.config/waybar"
-       "$HOME/.config/bin"
-       "$HOME/.config/ghostty"
-       "$HOME/.config/gtk-3.0"
-       "$HOME/.config/xfce4"
-       "$HOME/.emacs.d"
+CONFIG_DIRS=(
+  nvim hypr rofi waybar bin ghostty gtk-3.0 xfce4 wofi swaync fish sddm
 )
 
-for path in "${PATHS[@]}"; do
-	if [ ! -d "$path" ]; then
-		mkdir -p "$path"
-		echo "Created: $path"
-	else
-		echo "Path Found..."
-	fi
+HOME_FILES=(".zshrc" ".tmux.conf" ".emacs.d")
+CONFIG_SRC="../configs"
+
+echo "Updating .config directories..."
+
+# Ensure all paths exist
+for dir in "${CONFIG_DIRS[@]}"; do
+  mkdir -p "$HOME/.config/$dir"
 done
 
+echo "Cleaning old configs..."
+for dir in "${CONFIG_DIRS[@]}"; do
+  rm -rf "$HOME/.config/$dir"
+done
+for file in "${HOME_FILES[@]}"; do
+  rm -rf "$HOME/$file"
+done
 
-echo cleaning...
+echo "Copying new configs..."
+for dir in "${CONFIG_DIRS[@]}"; do
+  cp -R "$CONFIG_SRC/$dir" "$HOME/.config/" 2>/dev/null || true
+done
+for file in "${HOME_FILES[@]}"; do
+  cp -R "$CONFIG_SRC/$file" "$HOME/" 2>/dev/null || true
+done
 
-rm -rf ~/.config/nvim
-rm -rf ~/.config/hypr   
-rm -rf ~/.config/rofi
-rm -rf ~/.config/waybar
-rm -rf ~/.config/bin 
-rm -rf ~/.config/ghostty 
-rm -rf ~/.config/gtk-3.0
-rm -rf ~/.config/xfce4
-rm -rf ~/.emacs.d
+echo "Reloading environment..."
+zsh "$HOME/.zshrc"
+hyprctl reload || true
+tmux source "$HOME/.tmux.conf" 2>/dev/null || true
 
-rm -f ~/.zshrc
-rm -f ~/.tmux.conf
-
-echo complete...
-
-echo moving back to .config...
-
-cp -R ../configs/nvim     ~/.config
-cp -R ../configs/hypr     ~/.config
-cp -R ../configs/rofi     ~/.config
-cp -R ../configs/waybar   ~/.config
-cp -R ../configs/bin      ~/.config
-cp -R ../configs/ghostty  ~/.config
-cp -R ../configs/gtk-3.0  ~/.config
-cp -R ../configs/xfce4    ~/.config
-cp -R ../configs/.emacs.d ~/
-
-cp ../configs/.zshrc ~/ 
-cp ../configs/.tmux.conf ~/ 
-
-echo complete...
-
-exec /bin/zsh ~/.zshrc
-
-exec hyprctl reload
-exec tmux source ~/.tmux.conf
+echo "Done."

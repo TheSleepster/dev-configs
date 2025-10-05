@@ -588,7 +588,11 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(custom-safe-themes
-   '("6690ffddee04859b0a9f3b59ee0cb6fde32fde4628d56d0b22d3f752c10d15bb"
+   '("e1f4f0158cd5a01a9d96f1f7cdcca8d6724d7d33267623cc433fe1c196848554"
+     "56044c5a9cc45b6ec45c0eb28df100d3f0a576f18eef33ff8ff5d32bac2d9700"
+     "2078837f21ac3b0cc84167306fa1058e3199bbd12b6d5b56e3777a4125ff6851"
+     "7c28419e963b04bf7ad14f3d8f6655c078de75e4944843ef9522dbecfcd8717d"
+     "6690ffddee04859b0a9f3b59ee0cb6fde32fde4628d56d0b22d3f752c10d15bb"
      "33ffa159aed0677e5ff19000a8fdab9c1f6e9f28687b3f91ca3d1510b8870309"
      "eaf38079dd21acf9105ede3638e4540e5e99c208c01e37f1c7d3d26aa656f45a"
      "8e8a42a19ae8e3083a6f54f7d1310fecd2b869447d36ce094787fd38fb339fb4"

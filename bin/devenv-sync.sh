@@ -1,33 +1,24 @@
 #!/bin/bash
+echo updating .config files
+PATHS=("$HOME/.config/nvim"
+       "$HOME/.config/hypr"
+       "$HOME/.config/wofi"
+       "$HOME/.config/waybar"
+       "$HOME/.config/bin"
+       "$HOME/.config/ghostty"
+       "$HOME/.config/gtk-3.0"
+       "$HOME/.config/xfce4"
+       "$HOME/.config/swaync"
+       "$HOME/.config/fish"
+       "$HOME/.config/sddm"
+       "$HOME/.zshrc"
+       "$HOME/.tmux.conf"
+       "$HOME/.emacs.d"
+)
 
 echo syncing...
-cp -R ~/.config/nvim    ../configs
-cp -R ~/.config/hypr    ../configs
-cp -R ~/.config/rofi    ../configs
-cp -R ~/.config/waybar  ../configs
-cp -R ~/.config/bin     ../configs
-cp -R ~/.config/ghostty ../configs
-cp -R ~/.config/gtk-3.0 ../configs
-cp -R ~/.config/xfce4   ../configs
-cp -R ~/.emacs.d        ../configs
-
-cp ~/.zshrc ../configs
-
-echo syncing...
-cp -R ~/.config/nvim    ../configs
-cp -R ~/.config/hypr    ../configs
-cp -R ~/.config/rofi    ../configs
-cp -R ~/.config/waybar  ../configs
-cp -R ~/.config/bin     ../configs
-cp -R ~/.config/ghostty ../configs
-cp -R ~/.config/gtk-3.0 ../configs
-cp -R ~/.config/xfce4   ../configs
-cp -R ~/.emacs.d        ../configs
-
-cp ~/.zshrc ../configs
-cp ~/.tmux.conf ../configs
-
-echo complete...
-cp ~/.tmux.conf ../configs
+for path in "${PATHS[@]}"; do
+    cp -R $path ../configs
+done
 
 echo complete...
